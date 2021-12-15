@@ -3,6 +3,7 @@ Moodle Recommended Learning Block - SWEPM Group 3
 Adds a block to moodle, intended to show recommended learning activities
 
 Installation
+_____________________________________________________
 
 In powershell locate the moodle folder and then input
 
@@ -15,6 +16,7 @@ git clone https://github.com/TomGallagher98/recommended_learnings.git
 Run moodle upgrade, this should occur automatically on next login to moodle and can take a few minutes.
 
 Add Block to Moodle Page
+_____________________________________________________
 
 On main page, select turn editing on
 
