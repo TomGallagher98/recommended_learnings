@@ -14,7 +14,7 @@ Next input the command:
 git clone https://github.com/TomGallagher98/recommended_learnings.git
 
 Run moodle upgrade, this should occur automatically on next login to moodle and can take a few minutes.
-
+_____________________________________________________
 Add Block to Moodle Page
 _____________________________________________________
 
